@@ -16,3 +16,7 @@ The Unity program was used to represent the network .. Later, the whole file wil
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+
+## Reference
+HISHAM, Ahmed; MAHMOOD, Basim. On the Use of Virtual Reality in Visualizing Interactive Network Models for Big Data. In: 2022 8th International Conference on Contemporary Information Technology and Mathematics (ICCITM). IEEE, 2022. p. 20-24.‏
